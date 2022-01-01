@@ -11,7 +11,7 @@
    - Split that full path into chunks with their own start and end (e.g. 10 nodes per chunk)
    - each chunk only calculates to their end point
    - if a chunk no longer can reach its end point, from the chunk's start point, repeat from point 1
-   - Can test if "time interval refresh" or "event-based refresh" is more optimized
+   - Will use a "event-based" refresh instead of a "time interval" refresh
 
 2) Size optimization
    - currently the character relies on the nodes calculation distance.
