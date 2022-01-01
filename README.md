@@ -24,4 +24,4 @@
 
 This project will greatly compliment 2 other personal upcoming projects
    - Maze generation algorithm (seems okay)
-   - Marching cubes algorithm (what the f***)
+   - Marching cubes algorithm (what the f***) (https://www.youtube.com/watch?v=M3iI2l0ltbE&t=14s)
